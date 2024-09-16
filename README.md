@@ -1,6 +1,6 @@
-# Hey! :wave:
+# Hey! :wave: Its Dai!
 
-I'm DAI, a technology enthusiast and FrontEnd Developer.
+I'm Diego Carreon, a technology enthusiast and FrontEnd Developer.
 
 - :round_pushpin:I'm a FrontEnd Developer from Mexico
 
