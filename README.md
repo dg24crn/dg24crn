@@ -2,7 +2,7 @@
 
 I'm DAI, a technology enthusiast and FrontEnd Developer.
 
-- 🇲🇽: I'm a FrontEnd Developer from Mexico
+- :round_pushpin:I'm a FrontEnd Developer from Mexico
 
 - :white_check_mark: I specialize in Next.js. Always ready to learn more!
 
