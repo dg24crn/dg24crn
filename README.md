@@ -1,4 +1,4 @@
-# Hey! :wave:
+# Hi there! :wave:
 
 I'm Diego Carreon, a technology enthusiast and FrontEnd Developer.
 
