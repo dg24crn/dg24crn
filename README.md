@@ -18,7 +18,6 @@ I'm Diego Carreon, a technology enthusiast and FrontEnd Developer.
 - JavaScript
 - TypeScript
 - Tailwind
-- Bootstrap
 - React
 - NextJS
 
