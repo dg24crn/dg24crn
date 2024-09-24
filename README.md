@@ -26,3 +26,4 @@ I'm Diego Carreon, a technology enthusiast and FrontEnd Developer.
 
 - C#
 - Python
+- UI / UX Design
