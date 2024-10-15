@@ -33,3 +33,8 @@ I'm Diego Carreon, a FrontEnd Developer from Mexico.
 - Figma
 - Git
 - Unity
+- Shopify
+- Canva
+- Slack
+- Excel
+- ChatGPT
