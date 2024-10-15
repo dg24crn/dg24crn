@@ -27,3 +27,9 @@ I'm Diego Carreon, a FrontEnd Developer from Mexico.
 
 
 ### Tools
+
+- VS Code
+- Insomnia
+- Figma
+- Git
+- Unity
