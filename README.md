@@ -24,3 +24,6 @@ I'm Diego Carreon, a FrontEnd Developer from Mexico.
 - C#
 - Python
 - UX/UI Design
+
+
+### Tools
