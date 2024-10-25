@@ -1,6 +1,6 @@
 # Hi there! :wave:
 
-I'm Diego Carreon, a FrontEnd Developer from Mexico.
+I'm Diego Carreon, a Web Developer from Mexico.
 
 - :white_check_mark:I specialize in Next.js. Always ready to learn more!
 
