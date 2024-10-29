@@ -24,3 +24,4 @@ I'm Diego Carreon, a Web Developer from Mexico.
 - C#
 - Python
 - UX/UI Design
+- CyberSecurity
