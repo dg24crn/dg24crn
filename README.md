@@ -18,10 +18,10 @@ I'm Diego Carreon, a Web Developer from Mexico.
 - Tailwind
 - React
 - NextJS
+- Python
 
 ### Currently Learning
 
 - C#
-- Python
 - UX/UI Design
 - CyberSecurity
