@@ -15,10 +15,10 @@ I'm Diego Carreon, a Web Developer from Mexico.
 - CSS
 - JavaScript
 - TypeScript
+- Python
 - Tailwind
 - React
 - NextJS
-- Python
 
 ### Currently Learning
 
