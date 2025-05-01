@@ -19,9 +19,3 @@ I'm Diego Carreon, a FrontEnd Developer from Mexico.
 - Tailwind
 - React
 - NextJS
-
-### Currently Learning
-
-- C#
-- UX/UI Design
-- CyberSecurity
